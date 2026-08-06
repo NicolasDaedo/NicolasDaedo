@@ -1,7 +1,3 @@
-**NicolasDaedo**.
-
----
-```markdown
 # Olá, eu sou o Nícolas Daedo! 👋
 
 Desenvolvedor em formação e Estagiário em TI. Tenho experiência com manutenção de hardware, análise de sistemas e desenvolvimento de software.
@@ -10,22 +6,25 @@ Desenvolvedor em formação e Estagiário em TI. Tenho experiência com manuten�
 
 ## 🛠️ Tecnologias & Habilidades
 
-* **Linguagens & Backend:** `C#` | `Python`
-* **Frontend & Web:** `HTML5` | `CSS3` | `JavaScript` *(em aprendizado)*
-* **Ciência de Dados:** `Python para Data Science`
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+* **Linguagens & Backend:** C# | Python
+* **Frontend & Web:** HTML5 | CSS3 | JavaScript *(em aprendizado)*
+* **Ciência de Dados:** Python para Data Science
 * **Hardware & Suporte:** Análise, diagnóstico e manutenção de notebooks, desktops e celulares
 * **Idiomas:** Inglês *(Intermediário)*
 
-```text
-┌───────────────────────────────────────────────────────────┐
-│                 VISÃO GERAL DE HABILIDADES                │
-├─────────────────┬─────────────────────────────────────────┤
-│ Linguagens      │ C#, Python, JavaScript                  │
-│ Web & Dados     │ HTML5, CSS3, Data Science (Python)      │
-│ Suporte & TI    │ Manutenção de Notebooks, PCs e Celulares│
-└─────────────────┴─────────────────────────────────────────┘
+---
 
-```
+## 📌 Em foco atualmente
+
+* Aprofundando conhecimentos em **JavaScript** e desenvolvimento web
+* Aplicando conceitos de **Data Science com Python** em projetos práticos
+* Me preparando para oportunidades como desenvolvedor júnior
 
 ---
 
@@ -38,20 +37,23 @@ Desenvolvedor em formação e Estagiário em TI. Tenho experiência com manuten�
 
 ## 💼 Experiência Profissional
 
-* 💻 **Estagiário** @ **Codarin Informática** *(06/2026 - Atual)*
-* Responsável por análises e manutenção de notebooks, desktops e celulares.
-
-
+**💻 Estagiário em TI** — *Codarin Informática* (06/2026 – Atual)
+* Responsável por análise, diagnóstico e manutenção de notebooks, desktops e celulares.
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=NicolasDaedo&show_icons=true&theme=default)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasDaedo&layout=compact)
+
 ---
 
 ## 📬 Contato
 
-* 📧 **E-mail:** [nicolasdaedo0@gmail.com](https://www.google.com/search?q=mailto%3Anicolasdaedo0%40gmail.com)
+* 📧 **E-mail:** [nicolasdaedo0@gmail.com](mailto:nicolasdaedo0@gmail.com)
 * 🐙 **GitHub:** [github.com/NicolasDaedo](https://github.com/NicolasDaedo)
 
 ---
+
+![Visitor Count](https://profile-counter.glitch.me/NicolasDaedo/count.svg)
