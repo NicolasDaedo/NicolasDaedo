@@ -44,8 +44,8 @@ Desenvolvedor em formação e Estagiário em TI. Tenho experiência com manuten�
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=NicolasDaedo&show_icons=true&theme=default)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasDaedo&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NicolasDaedo&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=NicolasDaedo&show_icons=true&include_all_commits=true&theme=transparent)
+[![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=NicolasDaedo&layout=compact&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs/?username=NicolasDaedo&layout=compact&theme=transparent)
 
 ---
 
@@ -56,4 +56,4 @@ Desenvolvedor em formação e Estagiário em TI. Tenho experiência com manuten�
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/NicolasDaedo/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=NicolasDaedo&color=blue)
