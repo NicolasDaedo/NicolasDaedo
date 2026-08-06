@@ -1,4 +1,4 @@
-# Olá, eu sou o Nícolas Daedo! 👋
+# Olá, eu sou o Nícolas Calandrim Daedo! 👋
 
 Desenvolvedor em formação e Estagiário em TI. Tenho experiência com manutenção de hardware, análise de sistemas e desenvolvimento de software.
 
