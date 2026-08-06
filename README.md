@@ -1,16 +1,57 @@
-## Hi there 👋
+**NicolasDaedo**.
 
-<!--
-**NicolasDaedo/NicolasDaedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+```markdown
+# Olá, eu sou o Nícolas Daedo! 👋
 
-Here are some ideas to get you started:
+Desenvolvedor em formação e Estagiário em TI. Tenho experiência com manutenção de hardware, análise de sistemas e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias & Habilidades
+
+* **Linguagens & Backend:** `C#` | `Python`
+* **Frontend & Web:** `HTML5` | `CSS3` | `JavaScript` *(em aprendizado)*
+* **Ciência de Dados:** `Python para Data Science`
+* **Hardware & Suporte:** Análise, diagnóstico e manutenção de notebooks, desktops e celulares
+* **Idiomas:** Inglês *(Intermediário)*
+
+```text
+┌───────────────────────────────────────────────────────────┐
+│                 VISÃO GERAL DE HABILIDADES                │
+├─────────────────┬─────────────────────────────────────────┤
+│ Linguagens      │ C#, Python, JavaScript                  │
+│ Web & Dados     │ HTML5, CSS3, Data Science (Python)      │
+│ Suporte & TI    │ Manutenção de Notebooks, PCs e Celulares│
+└─────────────────┴─────────────────────────────────────────┘
+
+```
+
+---
+
+## 🎓 Formação Acadêmica & Cursos
+
+* 🎓 **Ensino Médio + Curso Técnico de Informática** — *Escola Professor Luiz Rosa* (Previsão: 12/2026)
+* 📜 **Programação em Python para Data Science** — *Senai* (Concluído em 12/2025)
+
+---
+
+## 💼 Experiência Profissional
+
+* 💻 **Estagiário** @ **Codarin Informática** *(06/2026 - Atual)*
+* Responsável por análises e manutenção de notebooks, desktops e celulares.
+
+
+
+---
+
+## 📊 Estatísticas do GitHub
+
+---
+
+## 📬 Contato
+
+* 📧 **E-mail:** [nicolasdaedo0@gmail.com](https://www.google.com/search?q=mailto%3Anicolasdaedo0%40gmail.com)
+* 🐙 **GitHub:** [github.com/NicolasDaedo](https://github.com/NicolasDaedo)
+
+---
