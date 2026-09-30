@@ -35,7 +35,7 @@ Desenvolvedor em formação com experiência em suporte técnico, manutenção d
 ## 💼 Experiência Profissional
 
 ### Estagiário em TI — Codarin Informática
-📅 06/2026 – 08/2026 (encerrado em 15/08/2026)
+📅 06/2026 – 08/2026 
 
 - Análise, diagnóstico e manutenção de notebooks, desktops e celulares
 - Atendimento a clientes e resolução de problemas de hardware e software
